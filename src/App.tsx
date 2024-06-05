@@ -169,7 +169,7 @@ const styles = StyleSheet.create({
     borderRadius: 8,
     marginHorizontal: 36,
     backgroundColor: '#8D3DAF',
-    marginBottom: 50,
+    marginBottom: 450,
   },
   gameBtnText: {
     fontSize: 18,
