@@ -10,6 +10,7 @@ First, you will need to start **Metro**, the JavaScript _bundler_ that ships _wi
 
 To start Metro, run the following command from the _root_ of your React Native project:
 
+
 ```bash
 # using npm
 npm start
@@ -58,6 +59,9 @@ Now that you have successfully run the app, let's modify it.
 ## Congratulations! :tada:
 
 You've successfully run and modified your React Native App. :partying_face:
+
+![Tic](https://github.com/nitin1999n/Tic_Tac_Toe/assets/69898944/c97f041d-98e2-4ee2-b254-09d1c7fe0f9b)
+![tic1](https://github.com/nitin1999n/Tic_Tac_Toe/assets/69898944/585e3909-e72d-4536-b5a3-d08ee7970ae1)
 
 ### Now what?
 
